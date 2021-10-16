@@ -1,0 +1,12 @@
+matterpoll:
+  service: github
+  repository: matterpoll/matterpoll
+"com.quarkslab.e2ee":
+  repository: quarkslab/mattermost-plugin-e2ee
+  service: github
+jitsi:
+  service: github
+  repository: mattermost/mattermost-plugin-jitsi
+zoom:
+  service: github
+  repository: mattermost/mattermost-plugin-zoom
