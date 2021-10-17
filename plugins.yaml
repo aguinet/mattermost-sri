@@ -10,3 +10,6 @@ jitsi:
 zoom:
   service: github
   repository: mattermost/mattermost-plugin-zoom
+"com.github.scottleedavis.mattermost-plugin-remind":
+  service: github
+  repository: scottleedavis/mattermost-plugin-remind
